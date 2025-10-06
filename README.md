@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=F0FFFF&height=120&section=header&text=capsule%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F0FFFF&height=120&section=header&text=Wellcome!!&fontSize=50)
 
 ## Entroduction
 안녕하세요 저는 영남대학교 컴퓨터학부에 재학중인 장수경입니다.<br>
