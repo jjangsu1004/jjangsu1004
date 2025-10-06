@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## Entroduction
-안녕하세요 저는 영남대학교 컴퓨터학부에 재학중인 장수경입니다
+안녕하세요 저는 영남대학교 컴퓨터학부에 재학중인 장수경입니다.<br>
 ![jjangsu1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjangsu1004&show_icons=true&theme=vue)
 ## Stacks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
